@@ -1,16 +1,4 @@
-h2.intro{color: #466995;
-  font-family: 'Oswald', sans-serif;
-  font-size: 18px;
-  font-weight: 300;
-  letter-spacing: 2px;
-  text-align: center;}
-p.intro{color: #466995;
-  font-family: 'Oswald', sans-serif;
-  font-size: 18px;
-  font-weight: 300;
-  letter-spacing: 2px;
-  text-align: center;}
-img.intro{color: #466995;
+.intro{color: #466995;
   font-family: 'Oswald', sans-serif;
   font-size: 18px;
   font-weight: 300;
